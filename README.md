@@ -6,7 +6,8 @@ Aria2 是一个厉害的命令行下载工具, 使用命令行操作稍微麻烦
 
 1. 先克隆本项目到本地 
 2. 运行 `RunMe.vbs`
-3. 开始愉快的下载吧! Enjoy ! :)
+3. 打开 Aria2 WebUI 后, 点击 `设置`--`链接设置` 设置如下, 其它留空即可! 开始愉快的下载吧! Enjoy ! :)
+![](http://ww4.sinaimg.cn/large/0060lm7Tly1fm96ovc6omj30gl0bt3yr.jpg)
 
 ## Help
 
