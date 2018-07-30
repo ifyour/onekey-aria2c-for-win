@@ -14,8 +14,6 @@
 RPC 路径: 设为默认
 SSL/TLS 加密: 取消勾选
 ```
-![config-example](https://user-images.githubusercontent.com/15377484/43382206-a3f88c9a-9409-11e8-949c-70decddc6ccb.jpg)
-
 
 ## Help
 
