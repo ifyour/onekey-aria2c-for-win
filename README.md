@@ -6,8 +6,16 @@
 
 1. 先克隆本项目到本地 
 2. 运行 `RunMe.vbs`
-3. 打开 Aria2 WebUI 后, 点击 `设置`--`链接设置` 设置如下, 其它留空即可! 开始愉快的下载吧! Enjoy ! :)
-![](http://ww4.sinaimg.cn/large/0060lm7Tly1fm96ovc6omj30gl0bt3yr.jpg)
+3. 打开 Aria2 WebUI 后, 点击 `设置`--`链接设置` 设置如下:
+
+```text
+主机: 设为默认
+端口: 设为默认
+RPC 路径: 设为默认
+SSL/TLS 加密: 取消勾选
+```
+![config-example](https://user-images.githubusercontent.com/15377484/43382206-a3f88c9a-9409-11e8-949c-70decddc6ccb.jpg)
+
 
 ## Help
 
